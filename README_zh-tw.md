@@ -1,5 +1,5 @@
 # Unity-Azure-OpenAI-speech-demo
- 
+ | [繁體中文](README_zh-tw.md) | [English](README_en-us.md) | 
 ## 專案簡介
 在Unity中透過使用Microsoft Azure OpenAI Service功能以及Azure speech Server(TTS & STT)製作簡易對話機器人模板
 
