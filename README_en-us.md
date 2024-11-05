@@ -1,5 +1,11 @@
 # Unity-Azure-OpenAI-speech-demo
- | [繁體中文](README_zh-tw.md) | [English](README_en-us.md) |
+
+<div align="center">
+
+| [繁體中文](README.md) | [English](README_en-us.md) |
+
+</div>
+
 ## Project Overview
 A basic chatbot template created in Unity using Microsoft Azure OpenAI Service and Azure Speech Server (TTS & STT) functionalities.
 
