@@ -5,7 +5,7 @@ using Microsoft.CognitiveServices.Speech;
 public class TextToSpeechHandler : MonoBehaviour
 {
     // Speech SDK 的訂閱和區域
-    private static readonly string speechKey = "4440fad33e5c430f9bf82eb49be4e6b5"; // 替換為你的 Speech API Key
+    private static readonly string speechKey = ""; // 替換為你的 Speech API Key
     private static readonly string speechRegion = "japaneast"; // 替換為你使用的地區
 
     // 語音合成並播放
