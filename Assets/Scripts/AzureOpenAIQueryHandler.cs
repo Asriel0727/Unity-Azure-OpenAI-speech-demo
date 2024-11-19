@@ -11,7 +11,7 @@ public class AzureOpenAIQueryHandler : MonoBehaviour
     public Text inputText;
     public TextToSpeechHandler ttsHandler;
 
-    private static readonly string endpoint = "https://cmedia-4o-mini.openai.azure.com/";
+    private static readonly string endpoint = "";
     private static readonly string apiKey = "";
     private static readonly string modelName = "gpt-4o-mini";
     private static readonly string apiVersion = "2023-03-15-preview";
