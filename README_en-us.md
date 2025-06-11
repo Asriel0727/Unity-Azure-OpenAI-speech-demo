@@ -14,6 +14,9 @@ A basic chatbot template created in Unity using Microsoft Azure OpenAI Service a
  - Voice input for dialogue content
  - Voice output for dialogue content
 
+## Version control
+ - git
+
 ## Future Plans
  - [ ] Add automatic detection of input language and respond accordingly
  - [ ] Add more speech resources
